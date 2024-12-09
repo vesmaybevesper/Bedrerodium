@@ -1,6 +1,7 @@
-# Bedrodium
+# Bedrerodium
+A Port of [Bedrodium](https://modrinth.com/mod/bedrodium) by kirillirik
 Minecraft mod (for FabricMC).
-Mod on modrith: https://modrinth.com/mod/bedrodium
+Mod on modrith: https://modrinth.com/mod/bedrerodium
 
 Requires Sodium.
 
