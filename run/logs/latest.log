@@ -1,0 +1,99 @@
+[19:59:49] [main/WARN] (FabricLoader/Knot) Class path entries reference missing files: C:\Users\cjame\Documents\Coding\Minecraft\Mods\bedrerodium\build\classes\java\main, C:\Users\cjame\Documents\Coding\Minecraft\Mods\bedrerodium\build\resources\main - the game may not load properly!
+[19:59:49] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.21.4 with Fabric Loader 0.16.9
+[19:59:49] [ForkJoinPool-1-worker-1/WARN] (FabricLoader/Metadata) Mod bedrerodium uses the version ${version} which isn't compatible with Loader's extended semantic version format (Could not parse version number component '${version}'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[19:59:49] [main/INFO] (FabricLoader) Loading 54 mods:
+	- bedrerodium ${version}
+	- fabric-api 0.111.0+1.21.4
+	- fabric-api-base 0.4.53+453d4f9104
+	- fabric-api-lookup-api-v1 1.6.84+7feeb73304
+	- fabric-biome-api-v1 15.0.4+466a140b04
+	- fabric-block-api-v1 1.0.31+7feeb73304
+	- fabric-block-view-api-v2 1.0.19+7feeb73304
+	- fabric-blockrenderlayer-v1 2.0.7+7feeb73304
+	- fabric-client-tags-api-v1 1.1.27+7feeb73304
+	- fabric-command-api-v1 1.2.61+f71b366f04
+	- fabric-command-api-v2 2.2.40+e496eb1504
+	- fabric-commands-v0 0.2.78+df3654b304
+	- fabric-content-registries-v0 9.1.12+7feeb73304
+	- fabric-convention-tags-v1 2.1.6+7f945d5b04
+	- fabric-convention-tags-v2 2.9.6+466a140b04
+	- fabric-crash-report-info-v1 0.3.6+7feeb73304
+	- fabric-data-attachment-api-v1 1.4.3+9aea556b04
+	- fabric-data-generation-api-v1 22.1.2+466a140b04
+	- fabric-dimensions-v1 4.0.10+7feeb73304
+	- fabric-entity-events-v1 2.0.11+60fccc7604
+	- fabric-events-interaction-v0 4.0.1+a4eebcf004
+	- fabric-game-rule-api-v1 1.0.62+7feeb73304
+	- fabric-gametest-api-v1 2.0.19+7feeb73304
+	- fabric-item-api-v1 11.1.12+203e6b2304
+	- fabric-item-group-api-v1 4.1.21+7feeb73304
+	- fabric-key-binding-api-v1 1.0.56+7feeb73304
+	- fabric-keybindings-v0 0.2.54+df3654b304
+	- fabric-lifecycle-events-v1 2.5.3+bf2a60eb04
+	- fabric-loot-api-v2 3.0.31+3f89f5a504
+	- fabric-loot-api-v3 1.0.19+203e6b2304
+	- fabric-message-api-v1 6.0.24+7feeb73304
+	- fabric-model-loading-api-v1 4.1.0+7b6b225304
+	- fabric-networking-api-v1 4.3.8+cc0fa2fe04
+	- fabric-object-builder-api-v1 18.0.5+e604fe7f04
+	- fabric-particles-v1 4.0.13+7feeb73304
+	- fabric-recipe-api-v1 8.0.3+fa62a02304
+	- fabric-registry-sync-v0 6.0.1+cc0fa2fe04
+	- fabric-renderer-api-v1 5.0.1+84404cdd04
+	- fabric-renderer-indigo 2.0.1+84404cdd04
+	- fabric-rendering-data-attachment-v1 0.3.57+73761d2e04
+	- fabric-rendering-fluids-v1 3.1.18+7feeb73304
+	- fabric-rendering-v1 10.1.0+7e7568bf04
+	- fabric-resource-conditions-api-v1 5.0.13+203e6b2304
+	- fabric-resource-loader-v0 3.0.10+203e6b2304
+	- fabric-screen-api-v1 2.0.37+7feeb73304
+	- fabric-screen-handler-api-v1 1.3.106+7feeb73304
+	- fabric-sound-api-v1 1.0.32+7feeb73304
+	- fabric-transfer-api-v1 5.4.6+1885ad7404
+	- fabric-transitive-access-wideners-v1 6.3.2+56e78b9b04
+	- fabricloader 0.16.9
+	- java 22
+	- minecraft 1.21.4
+	- mixinextras 0.4.1
+	- sodium 0.6.3+mc1.21.4
+[19:59:49] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/cjame/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/6a12aacc794f1078458433116e9ed42c1cc98096/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=CLIENT
+[19:59:49] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
+[19:59:49] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_21
+[19:59:49] [main/INFO] (Sodium) Loaded configuration file for Sodium: 43 options available, 0 override(s) found
+[19:59:50] [main/INFO] (Sodium-GraphicsAdapterProbe) Searching for graphics cards...
+[19:59:50] [main/INFO] (Sodium-GraphicsAdapterProbe) Found graphics adapter: AdapterInfo{vendor=AMD, description='AMD Radeon(TM) Graphics', adapterType=0x00002323, openglIcdFilePath='C:\Windows\System32\DriverStore\FileRepository\u0401611.inf_amd64_fdc4605155615ab7\B399690\atig6pxx.dll', openglIcdVersion=31.0.24002.92}
+[19:59:50] [main/INFO] (Sodium-GraphicsAdapterProbe) Found graphics adapter: AdapterInfo{vendor=NVIDIA, description='NVIDIA GeForce RTX 4070 Ti SUPER', adapterType=0x0000031B, openglIcdFilePath='C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_adf5a840df867035\nvoglv64.dll', openglIcdVersion=32.0.15.6614}
+[19:59:50] [main/WARN] (Sodium-Workarounds) Sodium has applied one or more workarounds to prevent crashes or other issues on your system: [NVIDIA_THREADED_OPTIMIZATIONS_BROKEN]
+[19:59:50] [main/WARN] (Sodium-Workarounds) This is not necessarily an issue, but it may result in certain features or optimizations being disabled. You can sometimes fix these issues by upgrading your graphics driver.
+[19:59:50] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[19:59:51] [Datafixer Bootstrap/INFO] (Minecraft) 243 Datafixer optimizations took 303 milliseconds
+[19:59:54] [Render thread/INFO] (Minecraft) Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:59:54] [Render thread/INFO] (Minecraft) Setting user: Player194
+[19:59:54] [Render thread/INFO] (Indigo) [Indigo] Different rendering plugin detected; not applying Indigo.
+[19:59:55] [Render thread/INFO] (Minecraft) Backend library: LWJGL version 3.3.3-snapshot
+[19:59:55] [Render thread/INFO] (Sodium-NvidiaWorkarounds) Modifying process environment to apply workarounds for the NVIDIA graphics driver...
+[19:59:55] [Render thread/INFO] (Minecraft) OpenGL Vendor: NVIDIA Corporation
+[19:59:55] [Render thread/INFO] (Minecraft) OpenGL Renderer: NVIDIA GeForce RTX 4070 Ti SUPER/PCIe/SSE2
+[19:59:55] [Render thread/INFO] (Minecraft) OpenGL Version: 3.2.0 NVIDIA 566.14
+[19:59:55] [Render thread/INFO] (Sodium-NvidiaWorkarounds) Modifying OpenGL context to apply workarounds for the NVIDIA graphics driver...
+[19:59:55] [Render thread/INFO] (Sodium-NvidiaWorkarounds) Enabling GL_DEBUG_OUTPUT_SYNCHRONOUS to force the NVIDIA driver to disable threadedcommand submission
+[19:59:55] [Render thread/INFO] (Minecraft) Reloading ResourceManager: vanilla, fabric, bedrerodium, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-convention-tags-v2, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-game-rule-api-v1, fabric-gametest-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-loot-api-v3, fabric-message-api-v1, fabric-model-loading-api-v1, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, sodium
+[19:59:56] [Worker-Main-6/INFO] (Minecraft) Found unifont_all_no_pua-16.0.01.hex, loading
+[19:59:56] [Worker-Main-14/INFO] (Minecraft) Found unifont_jp_patch-16.0.01.hex, loading
+[19:59:56] [Render thread/INFO] (Minecraft) OpenAL initialized on device OpenAL Soft on Speakers (Focusrite USB Audio)
+[19:59:56] [Render thread/INFO] (Minecraft) Sound engine started
+[19:59:56] [Render thread/INFO] (Minecraft) Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[19:59:56] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[19:59:56] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[19:59:56] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[19:59:56] [Render thread/INFO] (Minecraft) Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[19:59:56] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[19:59:56] [Render thread/INFO] (Minecraft) Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[19:59:56] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[19:59:56] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[19:59:56] [Render thread/INFO] (Minecraft) Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[19:59:57] [Render thread/INFO] (Minecraft) Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[19:59:57] [Render thread/INFO] (Minecraft) Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[19:59:57] [Render thread/INFO] (Minecraft) Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[19:59:57] [Render thread/INFO] (Minecraft) Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[20:00:02] [Render thread/INFO] (Minecraft) Stopping!
