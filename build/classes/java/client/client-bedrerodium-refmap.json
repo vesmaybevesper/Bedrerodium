@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "vesper/bedrerodium/mixin/client/MinecraftClientMixin": {
+      "setWorld": "Lnet/minecraft/class_310;method_18097(Lnet/minecraft/class_638;)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "vesper/bedrerodium/mixin/client/MinecraftClientMixin": {
+        "setWorld": "Lnet/minecraft/class_310;method_18097(Lnet/minecraft/class_638;)V"
+      }
+    }
+  }
+}
